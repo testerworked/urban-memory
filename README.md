@@ -34,11 +34,25 @@ docker-compose up
 <br>
 Приложение запускается в: http://localhost:8000
 <br>
-Docs:
+Docs:  http://localhost:8000/docs
 <br>
 
 ![docs](https://github.com/user-attachments/assets/d5c4ae21-239b-4758-879d-6643d3c4a08d)
 
+<br>
+redoc: http://localhost:8000/redoc
+<br>
+
+![redoc](https://github.com/user-attachments/assets/1b00be41-2904-4d28-96a2-553bd8a67c89)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
