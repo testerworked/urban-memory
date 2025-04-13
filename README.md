@@ -32,7 +32,11 @@ docker-compose down -v
 docker-compose build --no-cache
 docker-compose up
 <br>
+<br>
+<br>
 Приложение запускается в: http://localhost:8000
+<br>
+<br>
 <br>
 Docs:  http://localhost:8000/docs
 <br>
